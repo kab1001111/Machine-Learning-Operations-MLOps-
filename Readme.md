@@ -34,3 +34,6 @@ https://deta_plataform-8-t0848296.deta.app/docs#/
 
 URL del video en youtube
 https://www.youtube.com/watch?v=8J9CsCTAEDc
+
+
+Actualizacion: Para leer completamente el notebook  en el repositorio de github 'EDAII_sweetviz.ipynb' es necesario abrir en edición arriba en la esquina superior derecha donde esta el lapiz (edit this file) y marcar en "open in github.dev".
